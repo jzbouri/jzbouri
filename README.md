@@ -1,5 +1,5 @@
 # Hi there, I'm Jalal 👋
-I'm a computer science student at the University of Waterloo, with interests in AI/ML/DS. I also work at Deloitte and Carleton Blueprint, and I'm working on a few side projects as well.
+I'm a computer science student at the University of Waterloo, with interests in AI/ML/DS. I have also worked at Deloitte and Carleton Blueprint, and I'm working on a few side projects as well.
 
 ## Some of the technologies I've worked with:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
